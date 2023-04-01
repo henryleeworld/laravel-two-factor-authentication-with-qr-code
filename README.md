@@ -1,4 +1,4 @@
-# Laravel 8 行動條碼雙步驟驗證
+# Laravel 10 行動條碼雙步驟驗證
 
 雙步驟驗證是強烈建議啟用的安全功能，能為您的帳戶增加多一層的保護。一旦啟用兩步驟驗證，每次您登入時，除了密碼之外，系統還會要求您輸入一組六位數的安全碼和還原代碼。
 
@@ -31,8 +31,8 @@ $ npm install && npm run dev
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/xpf8a4U.png)
+![](https://i.imgur.com/Ar8rBQv.png)
 > 啟用兩步驟驗證
 
-![](https://i.imgur.com/5UB6TLy.png)
+![](https://i.imgur.com/dn5YJAm.png)
 > 成功啟用後，下一次登入時系統將會請您輸入選擇透過 Authenticator 應用程式接收驗證碼和還原代碼
